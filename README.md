@@ -1,5 +1,5 @@
 # Tickets API – Backend CRUD en Spring Boot  
-Proyecto desarrollado por **Elias Delgado** para la asignatura Fullstack II – Duoc UC.
+Proyecto desarrollado por **Elias Delgado** para la asignatura Fullstack II – Duoc UC - Docente Carlos Martinez
 
 ---
 
